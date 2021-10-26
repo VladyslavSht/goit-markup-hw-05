@@ -817,3 +817,23 @@ img {
     0px 2px 1px rgba(0, 0, 0, 0.2);
   border-radius: 4px;
 }
+
+.modal-btn {
+  position: absolute;
+  bottom: 40px;
+  padding: 10px 55px;
+  background-color: var(--accent);
+  color: var(--second-primary-text-color);
+
+  font-family: inherit;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.87;
+
+  letter-spacing: 0.06em;
+
+  border-radius: 4px;
+  border-style: none;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+}
